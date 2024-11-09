@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QRify</string>
+    <string name="illustration">illustration</string>
+    <string name="scan_or_generate_qr_codes_in_a_blink">Scan or generate qr codes in a blink 😉</string>
+    <string name="text">Text</string>
+    <string name="share">Share</string>
+    <string name="scanned_value">Scanned value :</string>
+    <string name="double_tap_for_copying">Double tap for copying</string>
+</resources>
